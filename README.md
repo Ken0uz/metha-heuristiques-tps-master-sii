@@ -44,7 +44,7 @@ To run the Java files and code, ensure you have the following installed:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/KenOuz/metha-heuristiques-tps-master-sii.git
+   git clone https://github.com/Ken0uz/metha-heuristiques-tps-master-sii.git
 
 2. Navigate to the desired TP folder
 3. Compile and run the Java files using your IDE or the command line:
