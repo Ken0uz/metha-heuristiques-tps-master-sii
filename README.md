@@ -5,14 +5,17 @@ This repository contains the work for the Méta-Heuristiques (Metaheuristics) mo
 ## Repository Structure
 
 - **TP1: Modélisation du problème du Voyageur de Commerce**
-  - Java files: `VoyageurCommerceDFS.java`, `ProblemeVoyageurCommerceBFS.java`, `VoyageurDeCommerce.java`.
+  - Java file :  `VoyageurDeCommerce.java`.
   - Tasks include generating instances of the problem, modeling a solution, checking the validity of a solution, and evaluating a solution.
 
-- **TP2: Recherche Exacte - DFS**
+- **TP2: Recherche Exacte - DFS** BFS**
+  - Java files : `VoyageurCommerceDFS.java`, `ProblemeVoyageurCommerceBFS.java`
   - Implement the Depth First Search (DFS) algorithm for solving the Traveling Salesman Problem.
+  - Implement the Breadth First Search (BFS) algorithm for solving the Traveling Salesman Problem.
   - Test the algorithm with different problem sizes.
 
 - **TP3: Recherche Heuristique - A* (A étoile)**
+  - Java files : `TSP_AStar.java` , `TSP_AStarr.java`
   - Implement the A* algorithm for solving the Traveling Salesman Problem.
   - Propose a heuristic and a cost function for the problem.
   - Test the algorithm with different problem sizes.
